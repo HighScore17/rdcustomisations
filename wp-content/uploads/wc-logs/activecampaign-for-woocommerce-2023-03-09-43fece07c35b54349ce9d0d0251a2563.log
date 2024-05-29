@@ -1,0 +1,176 @@
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:16+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}
+2023-03-09T14:18:17+00:00 ERROR cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+Context: {
+    "stack trace": [
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "createRejection",
+            "line": 149
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finishError",
+            "line": 102
+        },
+        {
+            "class": "AcVendor\\GuzzleHttp\\Handler\\CurlFactory",
+            "function": "finish",
+            "line": 43
+        }
+    ],
+    "source": "activecampaign-for-woocommerce",
+    "request_id": "ac_woocommerce_6409eaa68f4648.44011930"
+}

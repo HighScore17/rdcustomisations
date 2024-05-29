@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  body{
+      margin: 0px;
+  }
+    #templateCredits {
+      /*@editable*/
+      background-color: #37393d;
+      /*@editable*/
+      background-color: #37393d;
+      margin: auto;
+    }
+    .creditsContent {
+      /*@editable*/
+      color: #ffffff;
+      /*@editable*/
+      font-family: "Roboto", sans-serif;
+      /*@editable*/
+      font-size: 16px;
+      /*@editable*/
+      line-height: 150%;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      text-align: center;
+    }
+    .text-light{
+      color: #ffffff !important;
+    }
+    #footer{
+      display: none;
+      width: 100%;
+    }
+  </style>
+  <script>
+  window.onload = function() {
+      var vars = {};
+      var x = document.location.search.substring(1).split('&');
+      for (var i in x) {
+          var z = x[i].split('=', 2);
+          vars[z[0]] = unescape(z[1]);
+      }
+
+      //if current page number == last page number
+      if (vars['page'] == vars['topage']) {
+          document.querySelectorAll('#footer')[0].style.display="table";
+      }
+  };
+</script>
+</head>
+<body>
+  <table width="100%" cellpadding="0" cellspacing="0" id="footer">
+    <tr>
+    <td width="100%">
+          <table cellpadding="0" cellspacing="0" width="100%" id="templateCredits">
+            <tr>
+              <td valign="center" class="creditsContent" mc:edit="credits_content00" >
+                <b class="light">Rocket Distributors, LLC</b>
+                <br/>
+                 4303 Russell Dr Unit B Austin, TX 78704 | (800) 674-2894
+                 <br/>
+                 <a class="text-light" href="https://www.rocket.direct"><b class="light">www.rocket.direct</b></a>
+              </td>
+            </tr>
+          </table>
+          <!-- // END FOOTER -->
+        </td>
+      </tr>
+    </table>
+</body>
+</html>

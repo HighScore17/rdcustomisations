@@ -1,0 +1,17 @@
+{
+  "name": "usio",
+  "version": "1.0.0",
+  "description": "Usio payments for WooCommerce",
+  "main": "usio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git push origin && git push github",
+    "pull": "git github master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alan@horizon_woo:/opt/bitnami/apps/wordpress/git/usio"
+  },
+  "author": "Fernando Osuna & Alan Leyva",
+  "license": "ISC"
+}

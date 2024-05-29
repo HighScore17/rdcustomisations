@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/rocket-direct-theme-customisations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/rocket-direct-theme-customizations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/rocket-direct-theme-customizations/rocket-direct-theme-customisations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/snappy" vcs="Git" />
+  </component>
+</project>
